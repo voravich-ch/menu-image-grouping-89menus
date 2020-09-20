@@ -3,8 +3,8 @@
 This project is an extension of menu-image-grouping project. The goal is to improve the performance of the classification algorithm by implementing state-of-the-art model: EfficientNet in place of VGG-16. EfficientNet-B6 succeeded in increasing the number of distinguishable classes to 89 menus while maintaining a precision above 90% on the test set.
 
 ### Link to
--   [Google Slide Deck](https://docs.google.com/presentation/d/1h847Ayu3bea-TxJRxq6LftJx4XlU4Czsu9nQhgiwng0/edit?fbclid=IwAR3RqJjAgEXoN6vtOuqgODp8BNNHht4Uc5tEyvqg3XeECTYG0NQKODAUhdE#slide=id.g6f8ee14405_5_7)
--   [Google Sheet (Dashboard)](https://docs.google.com/spreadsheets/d/1kPVHFn06Jqwp1vr5lF1mlLwxh3E53jjH7wTWKInFy60/edit#gid=947057979)
+-   [Google Slide Deck](https://docs.google.com/presentation/d/1_F3VSmzPyqRwha-iKuc1wi_81Ia--21MHBd410eCf8k/edit?usp=sharing)
+-   [Google Sheet (Dashboard)](https://docs.google.com/spreadsheets/d/1bbqNpecLwyRiyXTifPtHHLRhhv4npazowSRgZvpEmlY/edit?usp=sharing)
 
 
 ## **Directory Structure**
