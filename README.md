@@ -78,7 +78,6 @@ The weight of the model: `best_model/B6_89classes-54-1.20.h5`. When setting a th
 ## To-do Task
 
 -   Create a test set which can better represent the real data. It should include all classes in the database, labeling classes other than these 89 menus as 'อื่นๆ'\
-    ```To evaluate the ability to distinguish classes it should not make a prediction.```
  
 -   Clean the training data.\
     ```There are some label mistakes in the `food_cleaned.csv` file; hence, cleaning it may increase performance. (Though it might not worth the time spent)```
