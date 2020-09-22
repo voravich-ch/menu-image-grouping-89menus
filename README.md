@@ -1,7 +1,3 @@
-## **Disclaimer**
-
-The input_images and model (`B6_89classes-54-1.20.h5`) files were not provided in this repository as they are company's assets.
-
 ## **Overview**
 
 This project is an extension of menu-image-grouping project. The goal is to improve the performance of the classification algorithm by implementing state-of-the-art model: EfficientNet in place of VGG-16. EfficientNet-B6 succeeded in increasing the number of distinguishable classes to 89 menus while maintaining a precision above 90% on the test set.
@@ -116,3 +112,6 @@ The weight of the model: `best_model/B6_89classes-54-1.20.h5`. When setting a th
 -   [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 -   [What is a good classifier?](https://skilja.com/what-is-a-good-classifier-1-4/)
 
+## **Disclaimer**
+
+The input_images and model (`B6_89classes-54-1.20.h5`) files were not provided in this repository as they are company's assets.
