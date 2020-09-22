@@ -1,3 +1,7 @@
+## **Disclaimer
+
+The input_images and model (`B6_89classes-54-1.20.h5`) files were not provided in this repository as they are company's assets.
+
 ## **Overview**
 
 This project is an extension of menu-image-grouping project. The goal is to improve the performance of the classification algorithm by implementing state-of-the-art model: EfficientNet in place of VGG-16. EfficientNet-B6 succeeded in increasing the number of distinguishable classes to 89 menus while maintaining a precision above 90% on the test set.
