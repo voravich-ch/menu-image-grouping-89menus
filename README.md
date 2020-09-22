@@ -1,4 +1,4 @@
-## **Disclaimer
+## **Disclaimer**
 
 The input_images and model (`B6_89classes-54-1.20.h5`) files were not provided in this repository as they are company's assets.
 
