@@ -92,7 +92,7 @@ The weight of the model: `best_model/B6_89classes-54-1.20.h5`. When setting a th
     ```The current object detection can only detect one object, and sometimes a non-target object is detected instead.```
     ```There are some errors in the bounding box coordinates.```
 
-## Reference
+## References
 
 ### Efficient net
 -   [EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html) 
