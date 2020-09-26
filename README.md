@@ -94,7 +94,7 @@ The weight of the model: `best_model/B6_89classes-54-1.20.h5`. When setting a th
 
 ## References
 
-### Efficient net
+### EfficientNet
 -   [EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html) 
 -   [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
 -   [EfficientNet Explained!](https://www.youtube.com/watch?v=3svIm5UC94I)
