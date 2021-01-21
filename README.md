@@ -42,7 +42,7 @@ aesthetic_score, photo_eid, pic_url, product_id, product_name, res_id, res_name,
 
 ### dev
 -   `00_download_image.ipynb` -> Download images data from Google Cloud Storage.
--   `01_crop-and-clean_image.ipynb` -> Select, clean, and crop images according to the bounding box. Create `food_cleaned_cropped.csv` while will be used in `02_create_data_nclasses.ipynb`.
+-   `01_crop-and-clean_image.ipynb` -> Select, clean, and crop images according to the bounding box. Create `food_cleaned_cropped.csv` which will be used in `02_create_data_nclasses.ipynb`.
 -   `02_create_data_nclasses.ipynb` -> Distributed images to train/validation/test folders preparing data for model training and evaluation.
 -   `03_train_model.ipynb` -> Train EfficientNet-B6 model.
 -   `04_evaluation.ipynb` -> Evaluate result on test set.
